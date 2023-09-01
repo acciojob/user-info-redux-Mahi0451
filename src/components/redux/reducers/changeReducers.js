@@ -11,4 +11,4 @@ export let changeReducer= (state=intitalstate, action)=>{
         default : return state
     }
 }
-export default changeReducer;
+export default changeReducers;
